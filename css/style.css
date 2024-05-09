@@ -1,0 +1,12 @@
+.form-floating{
+    position:relative;
+}
+
+.icon{
+    position: absolute;
+    top: calc(25%);
+    left: 1.25 rem;
+    padding-left:10px ;
+}
+
+
